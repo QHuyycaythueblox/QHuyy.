@@ -1,5 +1,4 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.comQHuyy/QHuyycaythueblox/refs/heads/main/ScriptQhuyy.lual"))()
        local Window = MakeWindow({
          Hub = {
          Title = "QHUYY RBLX",
